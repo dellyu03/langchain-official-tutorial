@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 python-dotenv = "==1.0.0"
+langchain-community = "*"
+pypdf = "*"
+langchain-core = "*"
+langchain-mistralai = "*"
 
 [dev-packages]
 
